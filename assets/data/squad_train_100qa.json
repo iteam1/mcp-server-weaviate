@@ -1,0 +1,526 @@
+[
+  {
+    "topic": "University of Notre Dame",
+    "context": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",
+    "qa_pairs": [
+      {
+        "id": 1,
+        "question": "To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+        "answer": "Saint Bernadette Soubirous"
+      },
+      {
+        "id": 2,
+        "question": "What is in front of the Notre Dame Main Building?",
+        "answer": "a copper statue of Christ"
+      },
+      {
+        "id": 3,
+        "question": "The Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+        "answer": "the Main Building"
+      },
+      {
+        "id": 4,
+        "question": "What is the Grotto at Notre Dame?",
+        "answer": "a Marian place of prayer and reflection"
+      },
+      {
+        "id": 5,
+        "question": "What sits on top of the Main Building at Notre Dame?",
+        "answer": "a golden statue of the Virgin Mary"
+      },
+      {
+        "id": 6,
+        "question": "When did the Scholastic Magazine of Notre dame begin publishing?",
+        "answer": "September 1876"
+      },
+      {
+        "id": 7,
+        "question": "How often is Notre Dame's the Juggler published?",
+        "answer": "twice"
+      },
+      {
+        "id": 8,
+        "question": "What is the daily student paper at Notre Dame called?",
+        "answer": "The Observer"
+      },
+      {
+        "id": 9,
+        "question": "How many student news papers are found at Notre Dame?",
+        "answer": "three"
+      },
+      {
+        "id": 10,
+        "question": "In what year did the student paper Common Sense begin publication at Notre Dame?",
+        "answer": "1987"
+      },
+      {
+        "id": 11,
+        "question": "Where is the headquarters of the Congregation of the Holy Cross?",
+        "answer": "Rome"
+      },
+      {
+        "id": 12,
+        "question": "What is the primary seminary of the Congregation of the Holy Cross?",
+        "answer": "Moreau Seminary"
+      },
+      {
+        "id": 13,
+        "question": "What is the oldest structure at Notre Dame?",
+        "answer": "Old College"
+      },
+      {
+        "id": 14,
+        "question": "What individuals live at Fatima House at Notre Dame?",
+        "answer": "Retired priests and brothers"
+      },
+      {
+        "id": 15,
+        "question": "Which prize did Frederick Buechner create?",
+        "answer": "Buechner Prize for Preaching"
+      },
+      {
+        "id": 16,
+        "question": "How many BS level degrees are offered in the College of Engineering at Notre Dame?",
+        "answer": "eight"
+      },
+      {
+        "id": 17,
+        "question": "In what year was the College of Engineering at Notre Dame formed?",
+        "answer": "1920"
+      },
+      {
+        "id": 18,
+        "question": "Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?",
+        "answer": "the College of Science"
+      },
+      {
+        "id": 19,
+        "question": "How many departments are within the Stinson-Remick Hall of Engineering?",
+        "answer": "five"
+      },
+      {
+        "id": 20,
+        "question": "The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?",
+        "answer": "the 1870s"
+      },
+      {
+        "id": 21,
+        "question": "What entity provides help with the management of time for new students at Notre Dame?",
+        "answer": "Learning Resource Center"
+      },
+      {
+        "id": 22,
+        "question": "How many colleges for undergraduates are at Notre Dame?",
+        "answer": "five"
+      },
+      {
+        "id": 23,
+        "question": "What was created at Notre Dame in 1962 to assist first year students?",
+        "answer": "The First Year of Studies program"
+      },
+      {
+        "id": 24,
+        "question": "Which organization declared the First Year of Studies program at Notre Dame \"outstanding?\"",
+        "answer": "U.S. News & World Report"
+      },
+      {
+        "id": 25,
+        "question": "The granting of Doctorate degrees first occurred in what year at Notre Dame?",
+        "answer": "1924"
+      }
+    ]
+  },
+  {
+    "topic": "Beyoncé",
+    "context": "Beyoncé Giselle Knowles-Carter (/biːˈjɒnseɪ/ bee-YON-say) (born September 4, 1981) is an American singer, songwriter, record producer and actress. Born and raised in Houston, Texas, she performed in various singing and dancing competitions as a child, and rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child. Managed by her father, Mathew Knowles, the group became one of the world's best-selling girl groups of all time. Their hiatus saw the release of Beyoncé's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\".",
+    "qa_pairs": [
+      {
+        "id": 101,
+        "question": "When did Beyonce start becoming popular?",
+        "answer": "in the late 1990s"
+      },
+      {
+        "id": 102,
+        "question": "What areas did Beyonce compete in when she was growing up?",
+        "answer": "singing and dancing"
+      },
+      {
+        "id": 103,
+        "question": "When did Beyonce leave Destiny's Child and become a solo singer?",
+        "answer": "2003"
+      },
+      {
+        "id": 104,
+        "question": "In what city and state did Beyonce  grow up? ",
+        "answer": "Houston, Texas"
+      },
+      {
+        "id": 105,
+        "question": "In which decade did Beyonce become famous?",
+        "answer": "late 1990s"
+      },
+      {
+        "id": 106,
+        "question": "In what R&B group was she the lead singer?",
+        "answer": "Destiny's Child"
+      },
+      {
+        "id": 107,
+        "question": "What album made her a worldwide known artist?",
+        "answer": "Dangerously in Love"
+      },
+      {
+        "id": 108,
+        "question": "Who managed the Destiny's Child group?",
+        "answer": "Mathew Knowles"
+      },
+      {
+        "id": 109,
+        "question": "In what city did Beyonce grow up?",
+        "answer": "Houston"
+      },
+      {
+        "id": 110,
+        "question": "What was the name of Beyonce's first solo album?",
+        "answer": "Dangerously in Love"
+      },
+      {
+        "id": 111,
+        "question": "On what date was Beyonce born?",
+        "answer": "September 4, 1981"
+      },
+      {
+        "id": 112,
+        "question": "What is Beyonce's full name?",
+        "answer": "Beyoncé Giselle Knowles-Carter"
+      },
+      {
+        "id": 113,
+        "question": "When did Beyoncé rise to fame?",
+        "answer": "late 1990s"
+      },
+      {
+        "id": 114,
+        "question": "What role did Beyoncé have in Destiny's Child?",
+        "answer": "lead singer"
+      },
+      {
+        "id": 115,
+        "question": "What was the first album Beyoncé released as a solo artist?",
+        "answer": "Dangerously in Love"
+      },
+      {
+        "id": 116,
+        "question": "When did Beyoncé release Dangerously in Love?",
+        "answer": "2003"
+      },
+      {
+        "id": 117,
+        "question": "How many Grammy awards did Beyoncé win for her first solo album?",
+        "answer": "five"
+      },
+      {
+        "id": 118,
+        "question": "What was Beyoncé's role in Destiny's Child?",
+        "answer": "lead singer"
+      },
+      {
+        "id": 119,
+        "question": "What was the name of Beyoncé's first solo album?",
+        "answer": "Dangerously in Love"
+      },
+      {
+        "id": 120,
+        "question": "When did Beyoncé release her first solo album?",
+        "answer": "2003"
+      },
+      {
+        "id": 121,
+        "question": "After her second solo album, what other entertainment venture did Beyonce explore?",
+        "answer": "acting"
+      },
+      {
+        "id": 122,
+        "question": "Which artist did Beyonce marry?",
+        "answer": "Jay Z"
+      },
+      {
+        "id": 123,
+        "question": "To set the record for Grammys, how many did Beyonce win?",
+        "answer": "six"
+      },
+      {
+        "id": 124,
+        "question": "For what movie did Beyonce receive  her first Golden Globe nomination?",
+        "answer": "Dreamgirls"
+      },
+      {
+        "id": 125,
+        "question": "When did Beyonce take a hiatus in her career and take control of her management?",
+        "answer": "2010"
+      }
+    ]
+  },
+  {
+    "topic": "Montana",
+    "context": "Montana i/mɒnˈtænə/ is a state in the Western region of the United States. The state's name is derived from the Spanish word montaña (mountain). Montana has several nicknames, although none official, including \"Big Sky Country\" and \"The Treasure State\", and slogans that include \"Land of the Shining Mountains\" and more recently \"The Last Best Place\". Montana is ranked 4th in size, but 44th in population and 48th in population density of the 50 United States. The western third of Montana contains numerous mountain ranges. Smaller island ranges are found throughout the state. In total, 77 named ranges are part of the Rocky Mountains.",
+    "qa_pairs": [
+      {
+        "id": 201,
+        "question": "Where does the state's name come from?",
+        "answer": "Spanish word montaña (mountain)"
+      },
+      {
+        "id": 202,
+        "question": "What is the states rank in size?",
+        "answer": "4th"
+      },
+      {
+        "id": 203,
+        "question": "What is its rank in popularion?",
+        "answer": "44th"
+      },
+      {
+        "id": 204,
+        "question": "How many ranges are part of the Rocky Mountains?",
+        "answer": "77"
+      },
+      {
+        "id": 205,
+        "question": "Where does the state's name come from?",
+        "answer": "from the Spanish word montaña"
+      },
+      {
+        "id": 206,
+        "question": "What year was the state tree selected?",
+        "answer": "1908"
+      },
+      {
+        "id": 207,
+        "question": "When was the state tree actually assigned?",
+        "answer": "1949"
+      },
+      {
+        "id": 208,
+        "question": "What year was the state animal selected?",
+        "answer": "1981"
+      },
+      {
+        "id": 209,
+        "question": "What is the state animal of Montana?",
+        "answer": "grizzly bear"
+      },
+      {
+        "id": 210,
+        "question": "What is the state fossil",
+        "answer": "Maiasaura"
+      },
+      {
+        "id": 211,
+        "question": "When was the state song composed?",
+        "answer": "1910"
+      },
+      {
+        "id": 212,
+        "question": "What is Montana's motto? ",
+        "answer": "Oro y Plata"
+      },
+      {
+        "id": 213,
+        "question": "What does Montana's motto mean?",
+        "answer": "\"Gold and Silver\""
+      },
+      {
+        "id": 214,
+        "question": "When was the motto adopted?",
+        "answer": "1865"
+      },
+      {
+        "id": 215,
+        "question": "WHen was the state flower adopted?",
+        "answer": "1895"
+      },
+      {
+        "id": 216,
+        "question": "What is the state flower for Montana?",
+        "answer": "bitterroot"
+      },
+      {
+        "id": 217,
+        "question": "How much of the states population does the \"Big 7\" have?",
+        "answer": "35 percent"
+      },
+      {
+        "id": 218,
+        "question": "How many counties does Montana have?",
+        "answer": "56"
+      },
+      {
+        "id": 219,
+        "question": "What city in Montana has over 100,000 people?",
+        "answer": "Billings"
+      },
+      {
+        "id": 220,
+        "question": "What two cities have a population over 50,000?",
+        "answer": "Missoula and Great Falls"
+      },
+      {
+        "id": 221,
+        "question": "Where does the state's name mean?",
+        "answer": "\"mountain\""
+      },
+      {
+        "id": 222,
+        "question": "What did the Spanish call this region?",
+        "answer": "Montaña del Norte"
+      },
+      {
+        "id": 223,
+        "question": "What is the total area of Montana?",
+        "answer": "147,040 square miles"
+      },
+      {
+        "id": 224,
+        "question": "What state does Montana border to the south?",
+        "answer": "Wyoming"
+      },
+      {
+        "id": 225,
+        "question": "What state does it border to the west?",
+        "answer": "Idaho"
+      }
+    ]
+  },
+  {
+    "topic": "Genocide",
+    "context": "The phrase \"in whole or in part\" has been subject to much discussion by scholars of international humanitarian law. The International Criminal Tribunal for the Former Yugoslavia found in Prosecutor v. Radislav Krstic – Trial Chamber I – Judgment – IT-98-33 (2001) ICTY8 (2 August 2001) that Genocide had been committed. In Prosecutor v. Radislav Krstic – Appeals Chamber – Judgment – IT-98-33 (2004) ICTY 7 (19 April 2004) paragraphs 8, 9, 10, and 11 addressed the issue of in part and found that \"the part must be a substantial part of that group. The aim of the Genocide Convention is to prevent the intentional destruction of entire human groups, and the part targeted must be significant enough to have an impact on the group as a whole.\" The Appeals Chamber goes into details of other cases and the opinions of respected commentators on the Genocide Convention to explain how they came to this conclusion.",
+    "qa_pairs": [
+      {
+        "id": 301,
+        "question": "In the judgement, it is stated that the aim of the Genocide Convention, at its most simplest, is preventing the destruction of which victims?",
+        "answer": "entire human groups"
+      },
+      {
+        "id": 302,
+        "question": "In addressing the issue of \"in part,\" the Appeals Chamber found that the part must be a substantial part of what?",
+        "answer": "that group"
+      },
+      {
+        "id": 303,
+        "question": "Which phrase is especially contentious within international humanitarian law?",
+        "answer": "\"in whole or in part\""
+      },
+      {
+        "id": 304,
+        "question": "What 2001 case was declared genocide by the International Criminal Tribune for the Former Yugoslavia (ICTY)?",
+        "answer": "Prosecutor v. Radislav Krstic"
+      },
+      {
+        "id": 305,
+        "question": "Who contributed to guiding the Appeals chamber in its conclusion?",
+        "answer": "opinions of respected commentators"
+      },
+      {
+        "id": 306,
+        "question": "Two bodies of the United Nations agreed with what restricted provision in defining genocide?",
+        "answer": "that biological-physical destruction was necessary"
+      },
+      {
+        "id": 307,
+        "question": "A definition of what, by the States, was necessary to preserve and expand genocidal law?",
+        "answer": "the type of group destruction"
+      },
+      {
+        "id": 308,
+        "question": "Which country's courts were noted by the ECHR for taking a wider stance on provisions of genocide laws?",
+        "answer": "Germany"
+      },
+      {
+        "id": 309,
+        "question": "The ECHR found most states to have largely undefined definitions of group destruction, despite what factor?",
+        "answer": "Convention States municipal laws"
+      },
+      {
+        "id": 310,
+        "question": "In its preparations, what was the source of other considerations by the ECHR?",
+        "answer": "the judgements of several international and municipal courts"
+      },
+      {
+        "id": 311,
+        "question": "In 1948, what general assembly resolution established genocide as a prosecutable act? ",
+        "answer": "the Convention on the Prevention and Punishment of the Crime of Genocide"
+      },
+      {
+        "id": 312,
+        "question": "In which war-era country was the Holocaust immortalized? ",
+        "answer": "Nazi Germany"
+      },
+      {
+        "id": 313,
+        "question": "Following World War II, whose bid was successful in establishing the worldwide acceptance and the nascent legal definition of genocide?",
+        "answer": "Lemkin"
+      },
+      {
+        "id": 314,
+        "question": "Which group convened officially for the first time in 1946?",
+        "answer": "United Nations General Assembly"
+      },
+      {
+        "id": 315,
+        "question": "While recognizing genocide, what did the UN General Assembly fail to do in its resolution?",
+        "answer": "provide a legal definition of the crime"
+      },
+      {
+        "id": 316,
+        "question": "Which provision was initially included in the first write-up of the Convention and then removed?",
+        "answer": "political killings"
+      },
+      {
+        "id": 317,
+        "question": "What is one of the countries that objected to the inclusion of political killings in the early version of the Convention?",
+        "answer": "USSR"
+      },
+      {
+        "id": 318,
+        "question": "What was the primary concern of other nations who objected to including political groups in the definition of genocide?",
+        "answer": "international intervention in domestic politics"
+      },
+      {
+        "id": 319,
+        "question": "Which distinguished academic of genocide highlighted several other countries opposed to including political genocide in the Convention?",
+        "answer": "William Schabas"
+      },
+      {
+        "id": 320,
+        "question": "What atrocity motivated a self-serving USSR to object to the provision of political killings drafted into the Convention?",
+        "answer": "its own Great Purge"
+      },
+      {
+        "id": 321,
+        "question": "Which group was accused by the ECHR of having an overly constricted idea of the meaning of destruction in defining genocide?",
+        "answer": "majority of legal scholars"
+      },
+      {
+        "id": 322,
+        "question": "What groups did the ECHR feel should be included as potential victims of genocide?",
+        "answer": "national, racial, religious or ethnic"
+      },
+      {
+        "id": 323,
+        "question": "In 2007 what former case did the European Court of Human Rights draw on to further refine qualifiers of genocide?",
+        "answer": "Jorgic v. Germany"
+      },
+      {
+        "id": 324,
+        "question": "What form of destruction was considered too limited by a smaller group of experts?",
+        "answer": "biological-physical"
+      },
+      {
+        "id": 325,
+        "question": "Prior to being a formal legal term, how was the word \"genocide\" used in an indictment scenario?",
+        "answer": "as a descriptive term"
+      }
+    ]
+  }
+]
