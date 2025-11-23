@@ -12,5 +12,5 @@ dependencies = [
     "pytest>=9.0.1",
     "python-dotenv>=1.2.1",
     "ruff>=0.14.6",
-    "weaviate-client[agents]>=4.18.1",
+    "weaviate-client>=4.18.1",
 ]
