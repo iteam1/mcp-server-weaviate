@@ -1,5 +1,10 @@
 # mcp-server-weaviate
 
+## 📋 Prerequisites
+
+- [uv](https://docs.astral.sh/uv/)
+- [weaviate](https://docs.weaviate.io/weaviate)
+
 ## 🛠️ Tools
 
 ### 1. **test_connection**
@@ -35,6 +40,12 @@ Perform hybrid search (combination of keyword and vector search) in a collection
 
 ## 🔧 Usage
 
+**Note**: *You need a litle techinical knowledge to run this server.*
+
+- Step 1: Clone this repository
+- Step 2: Initialize your weaviate database
+- Step 3: Add this config to your agentic app
+
 ```json
 {
   "mcpServers": {
@@ -56,7 +67,7 @@ Perform hybrid search (combination of keyword and vector search) in a collection
 }
 ```
 
-## Reference
+## 🧩 Reference
 
 [python-sdk](https://github.com/modelcontextprotocol/python-sdk)
 
