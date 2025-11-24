@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "weaviate": {
+      "args": [
+        "--directory",
+        "/home/locch/Works/mcp-server-weaviate",
+        "run",
+        "mcp_server_weaviate",
+        "--weaviate-http-port",
+        "8080",
+        "--weaviate-grpc-port",
+        "50051"
+      ],
+      "command": "uv",
+      "disabled": false
+    }
+  }
+}
