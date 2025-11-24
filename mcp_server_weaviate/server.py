@@ -5,7 +5,7 @@ from typing import Any
 from mcp.server.lowlevel import Server
 import weaviate
 from weaviate.client import WeaviateClient
-from .tools.test_connection import register_test_connection_tool
+from .tools.tool_registry import register_all_tools
 
 # Define CLI
 @click.command()
@@ -27,7 +27,7 @@ def main(port: int, weaviate_http_port: int, weaviate_grpc_port: int, transport:
     weaviate_client = weaviate.connect_to_local(port=weaviate_http_port)
     
     # Register tools
-    register_test_connection_tool(app, weaviate_client)
+    register_all_tools(app, weaviate_client)
 
     # Define server transport
     if transport == "sse":
