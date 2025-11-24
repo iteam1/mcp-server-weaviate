@@ -9,4 +9,6 @@
 
 [weaviate](https://docs.weaviate.io/weaviate)
 
-[SQuAD Dataset](https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json)
+[SQuAD Explorer](https://rajpurkar.github.io/SQuAD-explorer/)
+
+[SQuAD Training Dataset (v1.1)](https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v1.1.json)
