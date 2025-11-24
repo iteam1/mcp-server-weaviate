@@ -4,6 +4,7 @@
 
 - [uv](https://docs.astral.sh/uv/)
 - [weaviate](https://docs.weaviate.io/weaviate)
+- LLM provider API key (OpenAI, Anthropic, etc.) or local LLM (e.g. Ollama)
 
 ## 🛠️ Tools
 
