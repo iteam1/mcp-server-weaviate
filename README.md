@@ -1,11 +1,37 @@
 # mcp-server-weaviate
 
 ## 🛠️ Tools
-- Test connection
-- List all available collections
-- Near text search with adjustable parameters
-- Keyword search with adjustable parameters
-- Hybrid search with adjustable parameters
+
+### 1. **test_connection**
+Test connection to Weaviate server and get server information (version, hostname, available modules).
+
+### 2. **list_collections**
+List all available collections in Weaviate with record counts and sample properties.
+
+### 3. **near_text_search**
+Perform semantic/vector search in a collection.
+- **Parameters:**
+  - `collection_name` (required): Name of the collection to search in
+  - `query_text` (required): Text query to search for semantically similar results
+  - `limit` (optional): Maximum number of results to return (default: 5)
+
+### 4. **keyword_search**
+Perform keyword search (BM25) in a collection.
+- **Parameters:**
+  - `collection_name` (required): Name of the collection to search in
+  - `query_text` (required): Keywords to search for using BM25 algorithm
+  - `limit` (optional): Maximum number of results to return (default: 5)
+
+### 5. **hybrid_search**
+Perform hybrid search (combination of keyword and vector search) in a collection.
+- **Parameters:**
+  - `collection_name` (required): Name of the collection to search in
+  - `query_text` (required): Text query for hybrid search
+  - `limit` (optional): Maximum number of results to return (default: 5)
+  - `alpha` (optional): Balance between keyword (0) and vector (1) search (default: 0.5)
+    - `0.0` = keyword-only search
+    - `0.5` = balanced hybrid search
+    - `1.0` = vector-only search
 
 ## 🔧 Usage
 
