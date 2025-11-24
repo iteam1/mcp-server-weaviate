@@ -3,8 +3,8 @@
 ## 🛠️ Tools
 - Test connection
 - List all available collections
-- Near text search
-- Keyword search
+- Near text search with adjustable parameters
+- Keyword search with adjustable parameters
 - Hybrid search with adjustable parameters
 
 ## 🔧 Usage
@@ -13,17 +13,18 @@
 {
   "mcpServers": {
     "weaviate": {
-      "command": "uv",
       "args": [
         "--directory",
         "/absolute/path/to/mcp-server-weaviate",
         "run",
-        "mcp-server-weaviate",
-        "--http-port",
-        "${WEAVIATE_HTTP_PORT:-8080}",
-        "--grpc-port",
-        "${WEAVIATE_GRPC_PORT:-50051}"
-      ]
+        "mcp_server_weaviate",
+        "--weaviate-http-port",
+        "<weaviate-http-port>",
+        "--weaviate-grpc-port",
+        "<weaviate-grpc-port>"
+      ],
+      "command": "uv",
+      "disabled": false
     }
   }
 }
