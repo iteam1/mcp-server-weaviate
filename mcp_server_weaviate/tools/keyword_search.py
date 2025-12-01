@@ -61,9 +61,7 @@ def keyword_search_handler(
             # Add properties
             if hasattr(obj, 'properties') and obj.properties:
                 for key, value in obj.properties.items():
-                    if isinstance(value, str) and len(value) > 100:
-                        results.append(f"{key}: {value[:100]}...")
-                    else:
+                    if isinstance(value, str):
                         results.append(f"{key}: {value}")
             
             # Add metadata
